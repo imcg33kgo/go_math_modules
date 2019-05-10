@@ -1,4 +1,4 @@
-package Go_Math_Modules
+package go_math_modules
 
 type Point struct {
 	x int
